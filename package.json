@@ -1,0 +1,17 @@
+{
+  "name": "nodecrawler",
+  "version": "1.0.0",
+  "description": "nodecrawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "jsdom": "^11.1.0",
+    "nightmare": "^2.10.0",
+    "phantom": "^4.0.5"
+  }
+}
