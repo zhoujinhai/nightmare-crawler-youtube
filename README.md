@@ -1,5 +1,5 @@
-nightmare-crawler-youtube
+## nightmare-crawler-youtube
 
-Ë¼Â·£ºÀûÓÃnightmareÄ£Äâä¯ÀÀÆ÷µã»÷¼ÓÔØ¸ü¶à£¬½â¾öÁËYouTubeÒ³Ãæ¼ÓÔØ¸ü¶àµÄÎÊÌâ£¬     ÏÈÍ¨¹ýloop.js»ñÈ¡µ½ÊÓÆµÁÐ±í£¬²¢Ð´Èë±¾µØÎÄ¼þ£¬     ÔÙÀûÓÃcrawler.js»ñÈ¡¾ßÌåµÄÊÓÆµÄÚÈÝ¡£
+æ€è·¯ï¼šåˆ©ç”¨nightmareæ¨¡æ‹Ÿæµè§ˆå™¨ç‚¹å‡»åŠ è½½æ›´å¤šï¼Œè§£å†³äº†YouTubeé¡µé¢åŠ è½½æ›´å¤šçš„é—®é¢˜ï¼Œ     å…ˆé€šè¿‡loop.jsèŽ·å–åˆ°è§†é¢‘åˆ—è¡¨ï¼Œå¹¶å†™å…¥æœ¬åœ°æ–‡ä»¶ï¼Œ     å†åˆ©ç”¨crawler.jsèŽ·å–å…·ä½“çš„è§†é¢‘å†…å®¹ã€‚
 
-¾ßÌå²½ÖèÇë²Î¿¼£ºnodejsÅÀ³æ±Ê¼Ç£¨ËÄ£©---ÀûÓÃnightmare½â¾ö¼ÓÔØ¸ü¶àÎÊÌâ
+å…·ä½“æ­¥éª¤è¯·å‚è€ƒï¼š[nodejsçˆ¬è™«ç¬”è®°ï¼ˆå››ï¼‰---åˆ©ç”¨nightmareè§£å†³åŠ è½½æ›´å¤šé—®é¢˜](http://www.cnblogs.com/xiaxuexiaoab/)
